@@ -1,5 +1,5 @@
 # pony-town-nft-pack
-for me and my stupid brain
+cool gif animated ponies pack
 
 ## pony town skins pack
 ![](https://github.com/UrodEngine/pt-nft/blob/main/pony-nft/pos-main-bench/Gloss%20and%20Aberration/pony-town-Gloss%20and%20Aberration%200x00-trot-blinking-padded-4x.gif)
