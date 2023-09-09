@@ -1,7 +1,9 @@
-# pony-town-nft-pack
+# pony-town-nft-pack.
+
+### Description:
 :open_file_folder: cool ```gif``` animated ponies pack :open_file_folder:
 
-## pony town skins pack
+### Preview:
 ![](https://github.com/UrodEngine/pt-nft/blob/main/pony-nft/pos-main-bench/Gloss%20and%20Aberration/pony-town-Gloss%20and%20Aberration%200x00-trot-blinking-padded-4x.gif)
 ![](https://github.com/UrodEngine/pt-nft/blob/main/pony-nft/pos-tree-top-left/pack%201/pony-town-Njaro-trot-blinking-padded-4x.gif)
 ![](https://github.com/UrodEngine/pt-nft/blob/main/pony-nft/pos-main-bench/pack%201/pony-town-Saul%20Goodman-trot-blinking-padded-4x.gif)
