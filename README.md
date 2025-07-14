@@ -25,12 +25,5 @@ All skins are located in the `pony-nft` folder.
 
 ---------------------
 
-
-
-<img src="git-res/coolskull.png" align="center">
-
-
-
-
 <p align="center">Designed by CommunicationNode</p>
 
